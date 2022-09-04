@@ -1,9 +1,11 @@
-# Craps Calculator
+# Craps Calculator v.1.0
 A bet progression calculator for the game of Craps.
 
 ## Purpose
 
-This is a small script that allows you to enter your initial bet and the number you want to simulate rolling. The script will show a power pressing bet progression for 8 rolls, including how much you'd need to add to your winnings to get to the next power press bet level.
+This is a small script that will generate a betting progression for a Place number in Craps. The script will ask you for your starting bet amount, the number you are simulating, how many rolls you want to simulate, and whether or not you want to show the Power Press progression or amounts.
+
+A standard press in Craps just means that the initial bet is doubled with every hit on that number. A power press is adding money to the winnings to press the bet up to the next closest unit.
 
 ### Place 4 and 10
 
